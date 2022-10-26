@@ -1,0 +1,9 @@
+{
+"openings":[
+    {
+        "id":1,"day":"Monday    "
+        ,"openingTime":"11:00     "
+        ,"closingTime":"00:00     "
+    },
+    {"id":2,"day":"Friday    ","openingTime":"11:00     ","closingTime":"2:00      "},{"id":3,"day":"Sunday    ","openingTime":"11:00     ","closingTime":"23:00     "}]
+}
